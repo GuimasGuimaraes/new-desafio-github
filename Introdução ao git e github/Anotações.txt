@@ -1,0 +1,62 @@
+## Git & GitHub
+
+* Controle de versão
+* Armazenamento em nuvem
+* Trabalho em equipe
+* Melhorar seu código
+* Reconhecimento
+
+### Comandos no windows
+
+1. cd
+
+2. dir
+
+3. mkdir
+
+4. del/rmdir
+
+   ### Sha1 = Significa Secure Hash Algorithm, é um conjunto de funções hash por criptográfias projetadas pela NSA(Agência de Segurança Nacional Dos EUA)
+
+   ```
+   -blobs
+   -trees
+   -commits
+   
+   
+   
+   ```
+
+   # Mas oque é uma chave SSH?
+
+   
+
+   ### Chave SSH a grosso modo é uma forma de estabelecer uma conexão segura e encriptada entre duas máquinas.
+
+   
+
+   **Iniciando o Git e Criando o primeiro Commit**
+
+   -git init
+
+   -git add
+
+   -git commit
+
+   
+
+   **Ver pastas ocultas**
+
+   ls -a
+
+   
+
+   **Mover um repositório para outra pasta**
+
+   Exemplo: mv anotações.md ./arquivos-importantes/
+
+   
+
+   
+
+   ## 
